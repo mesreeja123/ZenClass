@@ -1,0 +1,13 @@
+Browser js
+-- Javascript can only be run in browsers
+-- basically used on the client side
+-- Javascript is capable enough to add HTML and play with the DOM.
+-- Javascript can run in any browser engine as like JS core in safari and Spidermonkey in Firefox.
+-- Some of the javascript frameworks are RamdaJS, TypedJS, etc.
+
+Node js
+-- NodeJS code can be run outside the browser.
+-- mostly used on the server-side.
+-- Nodejs does not have capability to add HTML tags.
+-- Nodejs can only run in V8 engine of google chrome.
+-- Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm.

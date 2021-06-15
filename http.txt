@@ -1,0 +1,16 @@
+HTTP1.1
+
+-- It keeps all requests and responses in plain text format.
+-- It loads resources one after the other
+-- slower compared to HTTP2
+-- It blocks all other resources behind it
+-- Headers are sent on every request leading to a lot of duplicate data being sent uncompressed across the wire.
+
+
+HTTP2
+
+-- It uses binary format
+-- It sends multiple steams data  at once
+-- faster in terms of performance and site loading time
+-- stream  prioritization is also possible while sending multiple data items
+-- Header compression is included by default in HTTP/2 using HPACK.

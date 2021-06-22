@@ -1,0 +1,28 @@
+{
+"name": "C.Sreeja",
+"contact phone": "9XXXXXXXXX",
+"mail":"me*******@gmail.com",
+"academic qualifications":[
+"graduation":{
+"name":"B.TECH(CSE)",
+"institution":"KLU",
+"cgpa":9.06,
+"year":2017
+},
+"10th":{
+"institution":"KV",
+"cgpa":10,
+"year":2011	
+}
+
+],
+"PROJECTS":[
+{
+"NAME":"CAPTCHA BASED ON HUMAN FEELINGS",
+"GIT": "github link",
+"languages":["sql","c#"]
+}
+]
+
+
+}

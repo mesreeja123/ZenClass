@@ -3,13 +3,13 @@
 "contact phone": "9XXXXXXXXX",
 "mail":"me*******@gmail.com",
 "academic qualifications":[
-"graduation":{
+  {"type":"graduation",
 "name":"B.TECH(CSE)",
 "institution":"KLU",
 "cgpa":9.06,
 "year":2017
 },
-"10th":{
+  {"type":"10th",
 "institution":"KV",
 "cgpa":10,
 "year":2011	
